@@ -21,7 +21,7 @@ Welcome to my *DBMS Project*
 $PROJECT_ROOT
 │   # Back-end 
 ├── Express server
-│   # Non-react modules 
+│   # Db modules 
 ├── MySQL file(in config)
 │   # react modules
 ├── Front-end
