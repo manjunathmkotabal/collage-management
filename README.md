@@ -21,10 +21,10 @@ Welcome to my *DBMS Project*
 $PROJECT_ROOT
 │   # Back-end 
 ├── Express server
-│   # Front-end 
-├── React modules
-│   # Non-react modules
-├── MySQL file
+│   # Non-react modules 
+├── MySQL file(in config)
+│   # react modules
+├── Front-end
 │   # Static files like images
 └── Assets
 ```
