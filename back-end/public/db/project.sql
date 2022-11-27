@@ -16,6 +16,7 @@ create table student
     did int,
     foreign key(did) references department(did)
 );
+
 create table faculty 
 (
 	fid int primary key not null,
