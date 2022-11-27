@@ -11,6 +11,7 @@ import Contact from "./Components/Contact";
 import SingleDepartment from "./Components/SingleDepartment";
 import AddBook from "./Components/AddBook";
 import About from "./Components/About";
+import Admin from "./Components/Admin";
 
 import { Route, BrowserRouter as Router } from "react-router-dom";
 
@@ -25,6 +26,7 @@ function App() {
   const renderAddBook = () => <AddBook />;
   const renderUpdateBook = () => <AddBook />;
   const renderAbout = () => <About />;
+  const renderAdmin = () => <Admin />;
 
   return (
     <div className="App">
@@ -36,6 +38,7 @@ function App() {
         <Route exact path="/departments" component={renderDepartment} />
         <Route exact path="/committees" component={renderCommittee} />
         <Route exact path="/contact" component={renderContact} />
+        <Route exact path="/admin" component={renderAdmin} />
         <Route
           exact
           path="/department/:dname"

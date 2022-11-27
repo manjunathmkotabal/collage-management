@@ -83,6 +83,8 @@ function Library() {
     if(searchVal === '')
       getBooks();
   }, [tag, order, noOfBooks, noOfAuthors, noOfEditions, books.length]);
+
+  
   console.log(searchVal);
   return (
     <div>

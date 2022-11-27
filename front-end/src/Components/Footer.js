@@ -8,7 +8,7 @@ class Footer extends Component {
         <div className="float-right">
           <Link to="/about-us">About </Link>| <Link to="/contact">Contact</Link>
         </div>
-        <div className="mr-auto">© Manjunath k, All Rights Reserved</div>
+        <div className="mr-auto">© Ad Astra, All Rights Reserved</div>
       </div>
     );
   }

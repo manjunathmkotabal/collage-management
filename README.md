@@ -21,7 +21,7 @@ $PROJECT_ROOT
 │   # Back-end 
 ├── Express server
 │   # Db modules 
-├── MySQL file(in config)
+├── MySQL file(in public)
 │   # react modules
 ├── Front-end
 │   # Static files like images
