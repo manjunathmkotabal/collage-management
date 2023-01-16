@@ -32,10 +32,10 @@ $PROJECT_ROOT
 ---
 # Installation
 
-- "yarn install"
+- yarn install
 
-# Runninnf
+# Running
 
-- "yarn start"
+- yarn start
 
 ---
