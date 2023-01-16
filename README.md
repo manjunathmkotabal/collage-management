@@ -28,3 +28,8 @@ $PROJECT_ROOT
 └── Assets
 ```
 ----
+
+for running 
+
+1)install packages by - "yarn install"
+2)sunn = "yarn start"
