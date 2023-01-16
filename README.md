@@ -28,9 +28,9 @@ $PROJECT_ROOT
 └── Assets
 ```
 ----
-
-$For running 
+ 
 ---
-1)install packages by - "yarn install"
-2)run = "yarn start"
+#For running
+-install packages by - "yarn install"
+-run = "yarn start"
 ---
