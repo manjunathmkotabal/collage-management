@@ -31,6 +31,8 @@ $PROJECT_ROOT
  
 ---
 #For running
+
 -install packages by - "yarn install"
+
 -run = "yarn start"
 ---
