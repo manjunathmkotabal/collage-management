@@ -30,9 +30,12 @@ $PROJECT_ROOT
 ----
  
 ---
-#For running
+# Installation
 
--install packages by - "yarn install"
+- "yarn install"
 
--run = "yarn start"
+# Runninnf
+
+- "yarn start"
+
 ---
